@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/info"
+            android:title="Informacoes Gerais" />
+        <item
+            android:id="@+id/nav_estagios"
+            android:icon="@drawable/grafico"
+            android:title="Estagios da Doenca" />
+        <item
+            android:id="@+id/nav_perguntas"
+            android:icon="@drawable/pergunta"
+            android:title="Perguntas" />
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Contato" />
+
+    </group>
+
+    <item android:title="Sobre">
+        <menu>
+            <item
+                android:id="@+id/nav_compartilhe"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhe" />
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Desenvolvedores" />
+            <item
+                android:id="@+id/nav_avalie"
+                android:icon="@drawable/estrela2"
+                android:title="Avalie" />
+
+
+        </menu>
+    </item>
+
+</menu>

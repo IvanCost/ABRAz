@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932423713538",
+    "firebase_url": "https://abraz-cdfc8.firebaseio.com",
+    "project_id": "abraz-cdfc8",
+    "storage_bucket": "abraz-cdfc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932423713538:android:698dd67c1ba8cacd",
+        "android_client_info": {
+          "package_name": "com.example.abraz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932423713538-tn654r29td9vi11uv9dkake9pkra5pa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abraz",
+            "certificate_hash": "55d62c16a031832583aeba3ff21a62874ba95809"
+          }
+        },
+        {
+          "client_id": "932423713538-dbfeebfes05povabq8gfukehktrnt21d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3hYG0p_sYGCF9z2vPpxhxxShwUE3x_ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932423713538-dbfeebfes05povabq8gfukehktrnt21d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
